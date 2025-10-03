@@ -1,0 +1,14 @@
+<% layout("/layouts/boilerplate") %>
+
+<div class="row mt-3">
+  <div class="alert alert-danger col-6 offset-3" role="alert">
+    <p class="alert-heading"><%= message %></p>
+  </div>
+
+  <!-- Modified error details display -->
+  <% if (typeof error !== 'undefined' && error.details && Array.isArray(error.details)) { %>
+    <% error.details.forEach((err) => { %>
+      <div class="alert alert-danger mt-2"><%= err.message %></div>
+    <% }) %>
+  <% } %>
+</div>
