@@ -41,3 +41,13 @@ Wanderlust/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/log-in.png" width="800"/>
+</p>
