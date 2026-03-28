@@ -94,7 +94,7 @@ node classroom/server.js
 
 ### 📍 Listings Page
 
-![Listings](screenshots/listing.png)
+![Listings](screenshots/log-in.png)
 
 ---
 
