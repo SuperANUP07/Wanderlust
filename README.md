@@ -26,3 +26,18 @@ Wanderlust is a full-stack travel listing web application that allows users to e
 ---
 
 ## 📁 Project Structure
+
+Wanderlust/
+│
+├── Bug-report/
+│ └── wanderlust-bug-reports.md
+│
+├── classroom/
+│ ├── routes/
+│ │ ├── post.js
+│ │ └── user.js
+│ └── server.js
+│
+├── .gitignore
+├── package.json
+└── README.md
