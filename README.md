@@ -90,7 +90,7 @@ node classroom/server.js
 
 ### 📝 Create Listing
 
-![Create Listing](screenshots/form.png)
+![Listings/new](screenshots/form.png)
 
 ### 📍 Listings Page
 
